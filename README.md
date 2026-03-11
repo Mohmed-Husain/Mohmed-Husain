@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **mohmedhusain72@gmail.com**
 
-- ⚡ Fun fact **I am a bug sucker or i suck at buging**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
