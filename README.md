@@ -3,12 +3,9 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohmed Husain</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmed-husain&label=Profile%20views&color=0e75b6&style=flat" alt="mohmed-husain" /> </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mohmed-Husain&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 - 🌱 I'm currently exploring new technologies and building cool projects 
